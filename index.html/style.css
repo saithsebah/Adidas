@@ -1,0 +1,9 @@
+.navbar-brand img{
+    margin-left: -10px;
+}
+.card{
+    width: 18rem; margin-right: auto; margin-left: auto;margin-top: 10px; margin-bottom: 10px;
+}
+.navbar>.container-fluid{
+    flex-wrap: nowrap;
+}
